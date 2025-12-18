@@ -1,0 +1,2076 @@
+{
+  "categories": [
+    {
+      "id": "greetings",
+      "name": {
+        "wo": "Nuyu",
+        "fr": "Salutations",
+        "en": "Greetings",
+        "ar": "التحيات",
+        "es": "Saludos"
+      },
+      "icon": "hand-wave",
+      "color": "#00853F"
+    },
+    {
+      "id": "family",
+      "name": {
+        "wo": "Mbokk",
+        "fr": "Famille",
+        "en": "Family",
+        "ar": "العائلة",
+        "es": "Familia"
+      },
+      "icon": "account-group",
+      "color": "#FDEF42"
+    },
+    {
+      "id": "numbers",
+      "name": {
+        "wo": "Limm",
+        "fr": "Nombres",
+        "en": "Numbers",
+        "ar": "الأرقام",
+        "es": "Números"
+      },
+      "icon": "numeric",
+      "color": "#E31B23"
+    },
+    {
+      "id": "food",
+      "name": {
+        "wo": "Lekk",
+        "fr": "Nourriture",
+        "en": "Food",
+        "ar": "الطعام",
+        "es": "Comida"
+      },
+      "icon": "food",
+      "color": "#00853F"
+    },
+    {
+      "id": "expressions",
+      "name": {
+        "wo": "Lakk yu ànd ak mbir",
+        "fr": "Expressions courantes",
+        "en": "Common expressions",
+        "ar": "التعبيرات الشائعة",
+        "es": "Expresiones comunes"
+      },
+      "icon": "comment-quote",
+      "color": "#FDEF42"
+    },
+    {
+      "id": "time",
+      "name": {
+        "wo": "Waxtu",
+        "fr": "Temps",
+        "en": "Time",
+        "ar": "الوقت",
+        "es": "Tiempo"
+      },
+      "icon": "clock",
+      "color": "#E31B23"
+    },
+    {
+      "id": "body",
+      "name": {
+        "wo": "Yaram",
+        "fr": "Corps",
+        "en": "Body",
+        "ar": "الجسم",
+        "es": "Cuerpo"
+      },
+      "icon": "human",
+      "color": "#00853F"
+    },
+    {
+      "id": "nature",
+      "name": {
+        "wo": "Àdduna",
+        "fr": "Nature",
+        "en": "Nature",
+        "ar": "الطبيعة",
+        "es": "Naturaleza"
+      },
+      "icon": "tree",
+      "color": "#FDEF42"
+    },
+    {
+      "id": "travel",
+      "name": {
+        "wo": "Tukki",
+        "fr": "Voyage",
+        "en": "Travel",
+        "ar": "السفر",
+        "es": "Viaje"
+      },
+      "icon": "airplane",
+      "color": "#E31B23"
+    },
+    {
+      "id": "verbs",
+      "name": {
+        "wo": "Jëf",
+        "fr": "Verbes",
+        "en": "Verbs",
+        "ar": "الأفعال",
+        "es": "Verbos"
+      },
+      "icon": "run",
+      "color": "#00853F"
+    }
+  ],
+  "entries": [
+    {
+      "id": "1",
+      "wolof": "Salamaaleekum",
+      "phonetic": "sa-la-maa-lee-kum",
+      "translations": {
+        "fr": "Bonjour / Paix sur vous",
+        "en": "Hello / Peace be upon you",
+        "ar": "السلام عليكم",
+        "es": "Hola / La paz sea contigo"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "2",
+      "wolof": "Maalekum salaam",
+      "phonetic": "maa-lee-kum sa-laam",
+      "translations": {
+        "fr": "Et sur vous la paix (réponse)",
+        "en": "And upon you peace (response)",
+        "ar": "وعليكم السلام",
+        "es": "Y sobre ti la paz (respuesta)"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "3",
+      "wolof": "Na nga def?",
+      "phonetic": "na-nga-def",
+      "translations": {
+        "fr": "Comment vas-tu?",
+        "en": "How are you?",
+        "ar": "كيف حالك؟",
+        "es": "¿Cómo estás?"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "4",
+      "wolof": "Mangi fi rekk",
+      "phonetic": "man-gi-fi-rek",
+      "translations": {
+        "fr": "Je vais bien",
+        "en": "I am fine",
+        "ar": "أنا بخير",
+        "es": "Estoy bien"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "5",
+      "wolof": "Jàmm rekk",
+      "phonetic": "djamm-rek",
+      "translations": {
+        "fr": "Seulement la paix",
+        "en": "Only peace (I'm fine)",
+        "ar": "السلام فقط",
+        "es": "Solo paz (estoy bien)"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "6",
+      "wolof": "Jërejëf",
+      "phonetic": "djé-re-djéf",
+      "translations": {
+        "fr": "Merci",
+        "en": "Thank you",
+        "ar": "شكراً",
+        "es": "Gracias"
+      },
+      "category": "greetings",
+      "type": "word"
+    },
+    {
+      "id": "7",
+      "wolof": "Waaw",
+      "phonetic": "waaw",
+      "translations": {
+        "fr": "Oui",
+        "en": "Yes",
+        "ar": "نعم",
+        "es": "Sí"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "8",
+      "wolof": "Déedéet",
+      "phonetic": "dé-dét",
+      "translations": {
+        "fr": "Non",
+        "en": "No",
+        "ar": "لا",
+        "es": "No"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "9",
+      "wolof": "Baal ma",
+      "phonetic": "baal-ma",
+      "translations": {
+        "fr": "Excuse-moi / Pardon",
+        "en": "Excuse me / Sorry",
+        "ar": "عفواً / آسف",
+        "es": "Discúlpame / Perdón"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "10",
+      "wolof": "Ba beneen",
+      "phonetic": "ba-be-nen",
+      "translations": {
+        "fr": "À bientôt",
+        "en": "See you later",
+        "ar": "إلى اللقاء",
+        "es": "Hasta luego"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "11",
+      "wolof": "Baay",
+      "phonetic": "baay",
+      "translations": {
+        "fr": "Père",
+        "en": "Father",
+        "ar": "أب",
+        "es": "Padre"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "12",
+      "wolof": "Yaay",
+      "phonetic": "yaay",
+      "translations": {
+        "fr": "Mère",
+        "en": "Mother",
+        "ar": "أم",
+        "es": "Madre"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "13",
+      "wolof": "Doom",
+      "phonetic": "doom",
+      "translations": {
+        "fr": "Enfant",
+        "en": "Child",
+        "ar": "طفل",
+        "es": "Hijo/a"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "14",
+      "wolof": "Mag",
+      "phonetic": "mag",
+      "translations": {
+        "fr": "Frère/Sœur aîné(e)",
+        "en": "Older brother/sister",
+        "ar": "أخ/أخت أكبر",
+        "es": "Hermano/a mayor"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "15",
+      "wolof": "Rakk",
+      "phonetic": "rak",
+      "translations": {
+        "fr": "Frère/Sœur cadet(te)",
+        "en": "Younger brother/sister",
+        "ar": "أخ/أخت أصغر",
+        "es": "Hermano/a menor"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "16",
+      "wolof": "Maam",
+      "phonetic": "maam",
+      "translations": {
+        "fr": "Grand-parent",
+        "en": "Grandparent",
+        "ar": "جد/جدة",
+        "es": "Abuelo/a"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "17",
+      "wolof": "Jabar",
+      "phonetic": "dja-bar",
+      "translations": {
+        "fr": "Épouse",
+        "en": "Wife",
+        "ar": "زوجة",
+        "es": "Esposa"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "18",
+      "wolof": "Jëkkër",
+      "phonetic": "djék-kér",
+      "translations": {
+        "fr": "Mari",
+        "en": "Husband",
+        "ar": "زوج",
+        "es": "Esposo"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "19",
+      "wolof": "Benn",
+      "phonetic": "ben",
+      "translations": {
+        "fr": "Un",
+        "en": "One",
+        "ar": "واحد",
+        "es": "Uno"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "20",
+      "wolof": "Ñaar",
+      "phonetic": "nyaar",
+      "translations": {
+        "fr": "Deux",
+        "en": "Two",
+        "ar": "اثنان",
+        "es": "Dos"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "21",
+      "wolof": "Ñett",
+      "phonetic": "nyet",
+      "translations": {
+        "fr": "Trois",
+        "en": "Three",
+        "ar": "ثلاثة",
+        "es": "Tres"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "22",
+      "wolof": "Ñeent",
+      "phonetic": "nyent",
+      "translations": {
+        "fr": "Quatre",
+        "en": "Four",
+        "ar": "أربعة",
+        "es": "Cuatro"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "23",
+      "wolof": "Juróom",
+      "phonetic": "dju-room",
+      "translations": {
+        "fr": "Cinq",
+        "en": "Five",
+        "ar": "خمسة",
+        "es": "Cinco"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "24",
+      "wolof": "Juróom-benn",
+      "phonetic": "dju-room-ben",
+      "translations": {
+        "fr": "Six",
+        "en": "Six",
+        "ar": "ستة",
+        "es": "Seis"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "25",
+      "wolof": "Juróom-ñaar",
+      "phonetic": "dju-room-nyaar",
+      "translations": {
+        "fr": "Sept",
+        "en": "Seven",
+        "ar": "سبعة",
+        "es": "Siete"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "26",
+      "wolof": "Juróom-ñett",
+      "phonetic": "dju-room-nyet",
+      "translations": {
+        "fr": "Huit",
+        "en": "Eight",
+        "ar": "ثمانية",
+        "es": "Ocho"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "27",
+      "wolof": "Juróom-ñeent",
+      "phonetic": "dju-room-nyent",
+      "translations": {
+        "fr": "Neuf",
+        "en": "Nine",
+        "ar": "تسعة",
+        "es": "Nueve"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "28",
+      "wolof": "Fukk",
+      "phonetic": "fuk",
+      "translations": {
+        "fr": "Dix",
+        "en": "Ten",
+        "ar": "عشرة",
+        "es": "Diez"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "29",
+      "wolof": "Téeméer",
+      "phonetic": "té-mér",
+      "translations": {
+        "fr": "Cent",
+        "en": "Hundred",
+        "ar": "مائة",
+        "es": "Cien"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "30",
+      "wolof": "Junni",
+      "phonetic": "djun-ni",
+      "translations": {
+        "fr": "Mille",
+        "en": "Thousand",
+        "ar": "ألف",
+        "es": "Mil"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "31",
+      "wolof": "Ceeb u jën",
+      "phonetic": "chéb-ou-djén",
+      "translations": {
+        "fr": "Thiéboudienne (riz au poisson)",
+        "en": "Rice with fish (national dish)",
+        "ar": "أرز بالسمك",
+        "es": "Arroz con pescado"
+      },
+      "category": "food",
+      "type": "phrase"
+    },
+    {
+      "id": "32",
+      "wolof": "Maafe",
+      "phonetic": "maa-fé",
+      "translations": {
+        "fr": "Mafé (sauce arachide)",
+        "en": "Peanut sauce dish",
+        "ar": "صلصة الفول السوداني",
+        "es": "Plato de salsa de maní"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "33",
+      "wolof": "Yassa",
+      "phonetic": "yas-sa",
+      "translations": {
+        "fr": "Yassa (oignons marinés)",
+        "en": "Yassa (marinated onion dish)",
+        "ar": "ياسا",
+        "es": "Yassa (plato de cebolla marinada)"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "34",
+      "wolof": "Ndogou",
+      "phonetic": "ndo-gou",
+      "translations": {
+        "fr": "Repas de rupture du jeûne",
+        "en": "Iftar meal",
+        "ar": "وجبة الإفطار",
+        "es": "Comida de ruptura del ayuno"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "35",
+      "wolof": "Meew",
+      "phonetic": "méw",
+      "translations": {
+        "fr": "Lait",
+        "en": "Milk",
+        "ar": "حليب",
+        "es": "Leche"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "36",
+      "wolof": "Mburu",
+      "phonetic": "mbou-rou",
+      "translations": {
+        "fr": "Pain",
+        "en": "Bread",
+        "ar": "خبز",
+        "es": "Pan"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "37",
+      "wolof": "Jën",
+      "phonetic": "djén",
+      "translations": {
+        "fr": "Poisson",
+        "en": "Fish",
+        "ar": "سمك",
+        "es": "Pescado"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "38",
+      "wolof": "Yàpp",
+      "phonetic": "yàp",
+      "translations": {
+        "fr": "Viande",
+        "en": "Meat",
+        "ar": "لحم",
+        "es": "Carne"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "39",
+      "wolof": "Ndox",
+      "phonetic": "ndokh",
+      "translations": {
+        "fr": "Eau",
+        "en": "Water",
+        "ar": "ماء",
+        "es": "Agua"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "40",
+      "wolof": "Attaya",
+      "phonetic": "a-ta-ya",
+      "translations": {
+        "fr": "Thé sénégalais",
+        "en": "Senegalese tea",
+        "ar": "شاي سنغالي",
+        "es": "Té senegalés"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "41",
+      "wolof": "Mën naa la dimbalé?",
+      "phonetic": "mén-na-la-dim-ba-lé",
+      "translations": {
+        "fr": "Puis-je vous aider?",
+        "en": "Can I help you?",
+        "ar": "هل يمكنني مساعدتك؟",
+        "es": "¿Puedo ayudarte?"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "42",
+      "wolof": "Dégg naa",
+      "phonetic": "dég-na",
+      "translations": {
+        "fr": "J'ai compris",
+        "en": "I understand",
+        "ar": "فهمت",
+        "es": "Entiendo"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "43",
+      "wolof": "Dégguma",
+      "phonetic": "dé-gou-ma",
+      "translations": {
+        "fr": "Je ne comprends pas",
+        "en": "I don't understand",
+        "ar": "لا أفهم",
+        "es": "No entiendo"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "44",
+      "wolof": "Wax ko tuuti",
+      "phonetic": "wakh-ko-tou-ti",
+      "translations": {
+        "fr": "Parle lentement",
+        "en": "Speak slowly",
+        "ar": "تحدث ببطء",
+        "es": "Habla despacio"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "45",
+      "wolof": "Lu tax?",
+      "phonetic": "lou-takh",
+      "translations": {
+        "fr": "Pourquoi?",
+        "en": "Why?",
+        "ar": "لماذا؟",
+        "es": "¿Por qué?"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "46",
+      "wolof": "Lan la?",
+      "phonetic": "lan-la",
+      "translations": {
+        "fr": "Qu'est-ce que c'est?",
+        "en": "What is it?",
+        "ar": "ما هذا؟",
+        "es": "¿Qué es?"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "47",
+      "wolof": "Naka la tudd?",
+      "phonetic": "na-ka-la-tud",
+      "translations": {
+        "fr": "Comment t'appelles-tu?",
+        "en": "What is your name?",
+        "ar": "ما اسمك؟",
+        "es": "¿Cómo te llamas?"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "48",
+      "wolof": "Maa ngi tudd...",
+      "phonetic": "ma-ngui-tud",
+      "translations": {
+        "fr": "Je m'appelle...",
+        "en": "My name is...",
+        "ar": "اسمي...",
+        "es": "Me llamo..."
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "49",
+      "wolof": "Tay",
+      "phonetic": "tay",
+      "translations": {
+        "fr": "Aujourd'hui",
+        "en": "Today",
+        "ar": "اليوم",
+        "es": "Hoy"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "50",
+      "wolof": "Démb",
+      "phonetic": "démb",
+      "translations": {
+        "fr": "Hier",
+        "en": "Yesterday",
+        "ar": "أمس",
+        "es": "Ayer"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "51",
+      "wolof": "Suba",
+      "phonetic": "sou-ba",
+      "translations": {
+        "fr": "Demain / Matin",
+        "en": "Tomorrow / Morning",
+        "ar": "غداً / صباح",
+        "es": "Mañana"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "52",
+      "wolof": "Ngoon",
+      "phonetic": "ngon",
+      "translations": {
+        "fr": "Après-midi",
+        "en": "Afternoon",
+        "ar": "بعد الظهر",
+        "es": "Tarde"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "53",
+      "wolof": "Guddi",
+      "phonetic": "gou-di",
+      "translations": {
+        "fr": "Nuit",
+        "en": "Night",
+        "ar": "ليل",
+        "es": "Noche"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "54",
+      "wolof": "Altine",
+      "phonetic": "al-ti-né",
+      "translations": {
+        "fr": "Lundi",
+        "en": "Monday",
+        "ar": "الاثنين",
+        "es": "Lunes"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "55",
+      "wolof": "Talaata",
+      "phonetic": "ta-la-ta",
+      "translations": {
+        "fr": "Mardi",
+        "en": "Tuesday",
+        "ar": "الثلاثاء",
+        "es": "Martes"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "56",
+      "wolof": "Àllarba",
+      "phonetic": "a-lar-ba",
+      "translations": {
+        "fr": "Mercredi",
+        "en": "Wednesday",
+        "ar": "الأربعاء",
+        "es": "Miércoles"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "57",
+      "wolof": "Alxamis",
+      "phonetic": "al-kha-mis",
+      "translations": {
+        "fr": "Jeudi",
+        "en": "Thursday",
+        "ar": "الخميس",
+        "es": "Jueves"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "58",
+      "wolof": "Àjjuma",
+      "phonetic": "a-dju-ma",
+      "translations": {
+        "fr": "Vendredi",
+        "en": "Friday",
+        "ar": "الجمعة",
+        "es": "Viernes"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "59",
+      "wolof": "Gaaw",
+      "phonetic": "gaw",
+      "translations": {
+        "fr": "Samedi",
+        "en": "Saturday",
+        "ar": "السبت",
+        "es": "Sábado"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "60",
+      "wolof": "Dibéer",
+      "phonetic": "di-bér",
+      "translations": {
+        "fr": "Dimanche",
+        "en": "Sunday",
+        "ar": "الأحد",
+        "es": "Domingo"
+      },
+      "category": "time",
+      "type": "word"
+    },
+    {
+      "id": "61",
+      "wolof": "Bopp",
+      "phonetic": "bop",
+      "translations": {
+        "fr": "Tête",
+        "en": "Head",
+        "ar": "رأس",
+        "es": "Cabeza"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "62",
+      "wolof": "Bët",
+      "phonetic": "bét",
+      "translations": {
+        "fr": "Œil",
+        "en": "Eye",
+        "ar": "عين",
+        "es": "Ojo"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "63",
+      "wolof": "Nopp",
+      "phonetic": "nop",
+      "translations": {
+        "fr": "Oreille",
+        "en": "Ear",
+        "ar": "أذن",
+        "es": "Oreja"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "64",
+      "wolof": "Gémmiñ",
+      "phonetic": "gué-ming",
+      "translations": {
+        "fr": "Bouche",
+        "en": "Mouth",
+        "ar": "فم",
+        "es": "Boca"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "65",
+      "wolof": "Loxo",
+      "phonetic": "lo-kho",
+      "translations": {
+        "fr": "Main/Bras",
+        "en": "Hand/Arm",
+        "ar": "يد/ذراع",
+        "es": "Mano/Brazo"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "66",
+      "wolof": "Tànk",
+      "phonetic": "tank",
+      "translations": {
+        "fr": "Pied/Jambe",
+        "en": "Foot/Leg",
+        "ar": "قدم/ساق",
+        "es": "Pie/Pierna"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "67",
+      "wolof": "Xol",
+      "phonetic": "khol",
+      "translations": {
+        "fr": "Cœur",
+        "en": "Heart",
+        "ar": "قلب",
+        "es": "Corazón"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "68",
+      "wolof": "Bakkan",
+      "phonetic": "ba-kan",
+      "translations": {
+        "fr": "Nez",
+        "en": "Nose",
+        "ar": "أنف",
+        "es": "Nariz"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "69",
+      "wolof": "Garab",
+      "phonetic": "ga-rab",
+      "translations": {
+        "fr": "Arbre",
+        "en": "Tree",
+        "ar": "شجرة",
+        "es": "Árbol"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "70",
+      "wolof": "Géej",
+      "phonetic": "guédj",
+      "translations": {
+        "fr": "Mer/Océan",
+        "en": "Sea/Ocean",
+        "ar": "بحر/محيط",
+        "es": "Mar/Océano"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "71",
+      "wolof": "Suuf",
+      "phonetic": "souf",
+      "translations": {
+        "fr": "Terre/Sol",
+        "en": "Earth/Ground",
+        "ar": "أرض",
+        "es": "Tierra/Suelo"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "72",
+      "wolof": "Asamaan",
+      "phonetic": "a-sa-man",
+      "translations": {
+        "fr": "Ciel",
+        "en": "Sky",
+        "ar": "سماء",
+        "es": "Cielo"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "73",
+      "wolof": "Ngelaw",
+      "phonetic": "ngué-law",
+      "translations": {
+        "fr": "Vent",
+        "en": "Wind",
+        "ar": "رياح",
+        "es": "Viento"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "74",
+      "wolof": "Taw",
+      "phonetic": "taw",
+      "translations": {
+        "fr": "Pluie",
+        "en": "Rain",
+        "ar": "مطر",
+        "es": "Lluvia"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "75",
+      "wolof": "Jant",
+      "phonetic": "djant",
+      "translations": {
+        "fr": "Soleil",
+        "en": "Sun",
+        "ar": "شمس",
+        "es": "Sol"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "76",
+      "wolof": "Weer",
+      "phonetic": "wér",
+      "translations": {
+        "fr": "Lune/Mois",
+        "en": "Moon/Month",
+        "ar": "قمر/شهر",
+        "es": "Luna/Mes"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "77",
+      "wolof": "Fan la gàll bi nekk?",
+      "phonetic": "fan-la-gal-bi-nek",
+      "translations": {
+        "fr": "Où est la gare?",
+        "en": "Where is the station?",
+        "ar": "أين المحطة؟",
+        "es": "¿Dónde está la estación?"
+      },
+      "category": "travel",
+      "type": "phrase"
+    },
+    {
+      "id": "78",
+      "wolof": "Bëgg naa dem...",
+      "phonetic": "bég-na-dem",
+      "translations": {
+        "fr": "Je veux aller à...",
+        "en": "I want to go to...",
+        "ar": "أريد الذهاب إلى...",
+        "es": "Quiero ir a..."
+      },
+      "category": "travel",
+      "type": "phrase"
+    },
+    {
+      "id": "79",
+      "wolof": "Ñaata lay jar?",
+      "phonetic": "nya-ta-lay-djar",
+      "translations": {
+        "fr": "Combien ça coûte?",
+        "en": "How much does it cost?",
+        "ar": "كم الثمن؟",
+        "es": "¿Cuánto cuesta?"
+      },
+      "category": "travel",
+      "type": "phrase"
+    },
+    {
+      "id": "80",
+      "wolof": "Dafa seer lool",
+      "phonetic": "da-fa-sér-lol",
+      "translations": {
+        "fr": "C'est trop cher",
+        "en": "It's too expensive",
+        "ar": "هذا غالي جداً",
+        "es": "Es muy caro"
+      },
+      "category": "travel",
+      "type": "phrase"
+    },
+    {
+      "id": "81",
+      "wolof": "Woto",
+      "phonetic": "wo-to",
+      "translations": {
+        "fr": "Voiture",
+        "en": "Car",
+        "ar": "سيارة",
+        "es": "Coche"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "82",
+      "wolof": "Otobus",
+      "phonetic": "o-to-bus",
+      "translations": {
+        "fr": "Bus",
+        "en": "Bus",
+        "ar": "حافلة",
+        "es": "Autobús"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "83",
+      "wolof": "Njaboot",
+      "phonetic": "ndja-bot",
+      "translations": {
+        "fr": "Aéroport",
+        "en": "Airport",
+        "ar": "مطار",
+        "es": "Aeropuerto"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "84",
+      "wolof": "Lekk",
+      "phonetic": "lek",
+      "translations": {
+        "fr": "Manger",
+        "en": "To eat",
+        "ar": "يأكل",
+        "es": "Comer"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "85",
+      "wolof": "Naan",
+      "phonetic": "nan",
+      "translations": {
+        "fr": "Boire",
+        "en": "To drink",
+        "ar": "يشرب",
+        "es": "Beber"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "86",
+      "wolof": "Dem",
+      "phonetic": "dem",
+      "translations": {
+        "fr": "Aller",
+        "en": "To go",
+        "ar": "يذهب",
+        "es": "Ir"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "87",
+      "wolof": "Ñëw",
+      "phonetic": "nyéw",
+      "translations": {
+        "fr": "Venir",
+        "en": "To come",
+        "ar": "يأتي",
+        "es": "Venir"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "88",
+      "wolof": "Wax",
+      "phonetic": "wakh",
+      "translations": {
+        "fr": "Parler/Dire",
+        "en": "To speak/say",
+        "ar": "يتكلم/يقول",
+        "es": "Hablar/Decir"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "89",
+      "wolof": "Gis",
+      "phonetic": "guis",
+      "translations": {
+        "fr": "Voir",
+        "en": "To see",
+        "ar": "يرى",
+        "es": "Ver"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "90",
+      "wolof": "Dégg",
+      "phonetic": "dég",
+      "translations": {
+        "fr": "Entendre/Comprendre",
+        "en": "To hear/understand",
+        "ar": "يسمع/يفهم",
+        "es": "Oír/Entender"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "91",
+      "wolof": "Bëgg",
+      "phonetic": "bég",
+      "translations": {
+        "fr": "Vouloir/Aimer",
+        "en": "To want/love",
+        "ar": "يريد/يحب",
+        "es": "Querer/Amar"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "92",
+      "wolof": "Jàng",
+      "phonetic": "djang",
+      "translations": {
+        "fr": "Apprendre/Étudier",
+        "en": "To learn/study",
+        "ar": "يتعلم/يدرس",
+        "es": "Aprender/Estudiar"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "93",
+      "wolof": "Liggéey",
+      "phonetic": "li-guéy",
+      "translations": {
+        "fr": "Travailler",
+        "en": "To work",
+        "ar": "يعمل",
+        "es": "Trabajar"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "94",
+      "wolof": "Nelaw",
+      "phonetic": "ne-law",
+      "translations": {
+        "fr": "Dormir",
+        "en": "To sleep",
+        "ar": "ينام",
+        "es": "Dormir"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "95",
+      "wolof": "Teranga",
+      "phonetic": "te-ran-ga",
+      "translations": {
+        "fr": "Hospitalité sénégalaise",
+        "en": "Senegalese hospitality",
+        "ar": "الضيافة السنغالية",
+        "es": "Hospitalidad senegalesa"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "96",
+      "wolof": "Inchallah",
+      "phonetic": "in-cha-la",
+      "translations": {
+        "fr": "Si Dieu le veut",
+        "en": "God willing",
+        "ar": "إن شاء الله",
+        "es": "Si Dios quiere"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "97",
+      "wolof": "Yallah na la yalla may",
+      "phonetic": "ya-la-na-la-ya-la-may",
+      "translations": {
+        "fr": "Que Dieu te bénisse",
+        "en": "May God bless you",
+        "ar": "بارك الله فيك",
+        "es": "Que Dios te bendiga"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "98",
+      "wolof": "Amul solo",
+      "phonetic": "a-mul-so-lo",
+      "translations": {
+        "fr": "Pas de problème",
+        "en": "No problem",
+        "ar": "لا مشكلة",
+        "es": "No hay problema"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "99",
+      "wolof": "Neex na",
+      "phonetic": "nékh-na",
+      "translations": {
+        "fr": "C'est bon/délicieux",
+        "en": "It's good/delicious",
+        "ar": "هذا لذيذ",
+        "es": "Está bueno/delicioso"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "100",
+      "wolof": "Bég na",
+      "phonetic": "bég-na",
+      "translations": {
+        "fr": "Je suis content",
+        "en": "I am happy",
+        "ar": "أنا سعيد",
+        "es": "Estoy contento"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "101",
+      "wolof": "Soow",
+      "phonetic": "sow",
+      "translations": {
+        "fr": "Oncle maternel",
+        "en": "Maternal uncle",
+        "ar": "خال",
+        "es": "Tío materno"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "102",
+      "wolof": "Bajaanu",
+      "phonetic": "ba-dja-nu",
+      "translations": {
+        "fr": "Tante paternelle",
+        "en": "Paternal aunt",
+        "ar": "عمة",
+        "es": "Tía paterna"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "103",
+      "wolof": "Ndey-ju-ndey",
+      "phonetic": "ndey-dju-ndey",
+      "translations": {
+        "fr": "Grand-mère maternelle",
+        "en": "Maternal grandmother",
+        "ar": "جدة من الأم",
+        "es": "Abuela materna"
+      },
+      "category": "family",
+      "type": "word"
+    },
+    {
+      "id": "104",
+      "wolof": "Nit",
+      "phonetic": "nit",
+      "translations": {
+        "fr": "Personne/Être humain",
+        "en": "Person/Human being",
+        "ar": "شخص/إنسان",
+        "es": "Persona/Ser humano"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "105",
+      "wolof": "Xarit",
+      "phonetic": "kha-rit",
+      "translations": {
+        "fr": "Ami",
+        "en": "Friend",
+        "ar": "صديق",
+        "es": "Amigo"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "106",
+      "wolof": "Fenn la nekk?",
+      "phonetic": "fen-la-nek",
+      "translations": {
+        "fr": "Où es-tu?",
+        "en": "Where are you?",
+        "ar": "أين أنت؟",
+        "es": "¿Dónde estás?"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "107",
+      "wolof": "Fan nga jóge?",
+      "phonetic": "fan-nga-djo-gué",
+      "translations": {
+        "fr": "D'où viens-tu?",
+        "en": "Where are you from?",
+        "ar": "من أين أنت؟",
+        "es": "¿De dónde vienes?"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "108",
+      "wolof": "Mangi fi",
+      "phonetic": "man-gui-fi",
+      "translations": {
+        "fr": "Je suis ici",
+        "en": "I am here",
+        "ar": "أنا هنا",
+        "es": "Estoy aquí"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "109",
+      "wolof": "Fukki-benn",
+      "phonetic": "fu-ki-ben",
+      "translations": {
+        "fr": "Onze",
+        "en": "Eleven",
+        "ar": "أحد عشر",
+        "es": "Once"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "110",
+      "wolof": "Fukki-ñaar",
+      "phonetic": "fu-ki-nyaar",
+      "translations": {
+        "fr": "Douze",
+        "en": "Twelve",
+        "ar": "اثنا عشر",
+        "es": "Doce"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "111",
+      "wolof": "Ñaar-fukk",
+      "phonetic": "nyaar-fuk",
+      "translations": {
+        "fr": "Vingt",
+        "en": "Twenty",
+        "ar": "عشرون",
+        "es": "Veinte"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "112",
+      "wolof": "Fanweer-fukk",
+      "phonetic": "fan-wér-fuk",
+      "translations": {
+        "fr": "Cinquante",
+        "en": "Fifty",
+        "ar": "خمسون",
+        "es": "Cincuenta"
+      },
+      "category": "numbers",
+      "type": "word"
+    },
+    {
+      "id": "113",
+      "wolof": "Ndaw si",
+      "phonetic": "ndaw-si",
+      "translations": {
+        "fr": "La jeune fille",
+        "en": "The young girl",
+        "ar": "الفتاة الصغيرة",
+        "es": "La chica joven"
+      },
+      "category": "family",
+      "type": "phrase"
+    },
+    {
+      "id": "114",
+      "wolof": "Góor gi",
+      "phonetic": "gor-gui",
+      "translations": {
+        "fr": "L'homme",
+        "en": "The man",
+        "ar": "الرجل",
+        "es": "El hombre"
+      },
+      "category": "family",
+      "type": "phrase"
+    },
+    {
+      "id": "115",
+      "wolof": "Jigéen ji",
+      "phonetic": "dji-guén-dji",
+      "translations": {
+        "fr": "La femme",
+        "en": "The woman",
+        "ar": "المرأة",
+        "es": "La mujer"
+      },
+      "category": "family",
+      "type": "phrase"
+    },
+    {
+      "id": "116",
+      "wolof": "Xale bi",
+      "phonetic": "kha-le-bi",
+      "translations": {
+        "fr": "L'enfant",
+        "en": "The child",
+        "ar": "الطفل",
+        "es": "El niño"
+      },
+      "category": "family",
+      "type": "phrase"
+    },
+    {
+      "id": "117",
+      "wolof": "Ceeb bu weex",
+      "phonetic": "chéb-bu-wékh",
+      "translations": {
+        "fr": "Riz blanc",
+        "en": "White rice",
+        "ar": "أرز أبيض",
+        "es": "Arroz blanco"
+      },
+      "category": "food",
+      "type": "phrase"
+    },
+    {
+      "id": "118",
+      "wolof": "Soupe kandia",
+      "phonetic": "soup-kan-dia",
+      "translations": {
+        "fr": "Soupe de gombo",
+        "en": "Okra soup",
+        "ar": "شوربة البامية",
+        "es": "Sopa de okra"
+      },
+      "category": "food",
+      "type": "phrase"
+    },
+    {
+      "id": "119",
+      "wolof": "Laxu",
+      "phonetic": "la-khou",
+      "translations": {
+        "fr": "Couscous de mil",
+        "en": "Millet couscous",
+        "ar": "كسكس الدخن",
+        "es": "Cuscús de mijo"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "120",
+      "wolof": "Thiéré",
+      "phonetic": "tié-ré",
+      "translations": {
+        "fr": "Couscous",
+        "en": "Couscous",
+        "ar": "كسكس",
+        "es": "Cuscús"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "121",
+      "wolof": "Bissap",
+      "phonetic": "bi-sap",
+      "translations": {
+        "fr": "Jus d'hibiscus",
+        "en": "Hibiscus juice",
+        "ar": "عصير الكركديه",
+        "es": "Jugo de hibisco"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "122",
+      "wolof": "Bouye",
+      "phonetic": "bou-yé",
+      "translations": {
+        "fr": "Jus de baobab",
+        "en": "Baobab juice",
+        "ar": "عصير الباوباب",
+        "es": "Jugo de baobab"
+      },
+      "category": "food",
+      "type": "word"
+    },
+    {
+      "id": "123",
+      "wolof": "Na nga yendoo",
+      "phonetic": "na-nga-yen-do",
+      "translations": {
+        "fr": "Bonne journée",
+        "en": "Have a good day",
+        "ar": "يوماً سعيداً",
+        "es": "Que tengas un buen día"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "124",
+      "wolof": "Na nga fanaan",
+      "phonetic": "na-nga-fa-nan",
+      "translations": {
+        "fr": "Bonne nuit",
+        "en": "Good night",
+        "ar": "تصبح على خير",
+        "es": "Buenas noches"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "125",
+      "wolof": "Nanga def ci kër ga?",
+      "phonetic": "nan-ga-def-ci-kér-ga",
+      "translations": {
+        "fr": "Comment va la famille?",
+        "en": "How is the family?",
+        "ar": "كيف حال العائلة؟",
+        "es": "¿Cómo está la familia?"
+      },
+      "category": "greetings",
+      "type": "phrase"
+    },
+    {
+      "id": "126",
+      "wolof": "Ndax mën nga wax Wolof?",
+      "phonetic": "ndakh-mén-nga-wakh-wolof",
+      "translations": {
+        "fr": "Parles-tu Wolof?",
+        "en": "Do you speak Wolof?",
+        "ar": "هل تتحدث الولوف؟",
+        "es": "¿Hablas Wolof?"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "127",
+      "wolof": "Tuuti rekk",
+      "phonetic": "tou-ti-rek",
+      "translations": {
+        "fr": "Un peu seulement",
+        "en": "Just a little",
+        "ar": "قليلاً فقط",
+        "es": "Solo un poco"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "128",
+      "wolof": "Maa ngi jàng Wolof",
+      "phonetic": "ma-ngui-djang-wolof",
+      "translations": {
+        "fr": "J'apprends le Wolof",
+        "en": "I am learning Wolof",
+        "ar": "أنا أتعلم الولوف",
+        "es": "Estoy aprendiendo Wolof"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "129",
+      "wolof": "Rafet na",
+      "phonetic": "ra-fet-na",
+      "translations": {
+        "fr": "C'est beau",
+        "en": "It's beautiful",
+        "ar": "هذا جميل",
+        "es": "Es hermoso"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    },
+    {
+      "id": "130",
+      "wolof": "Yow",
+      "phonetic": "yow",
+      "translations": {
+        "fr": "Toi",
+        "en": "You",
+        "ar": "أنت",
+        "es": "Tú"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "131",
+      "wolof": "Man",
+      "phonetic": "man",
+      "translations": {
+        "fr": "Moi",
+        "en": "Me",
+        "ar": "أنا",
+        "es": "Yo"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "132",
+      "wolof": "Moom",
+      "phonetic": "mom",
+      "translations": {
+        "fr": "Lui/Elle",
+        "en": "Him/Her",
+        "ar": "هو/هي",
+        "es": "Él/Ella"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "133",
+      "wolof": "Ñu",
+      "phonetic": "nyu",
+      "translations": {
+        "fr": "Nous",
+        "en": "We",
+        "ar": "نحن",
+        "es": "Nosotros"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "134",
+      "wolof": "Yéen",
+      "phonetic": "yén",
+      "translations": {
+        "fr": "Vous",
+        "en": "You (plural)",
+        "ar": "أنتم",
+        "es": "Vosotros/Ustedes"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "135",
+      "wolof": "Ñoom",
+      "phonetic": "nyom",
+      "translations": {
+        "fr": "Eux/Elles",
+        "en": "They",
+        "ar": "هم",
+        "es": "Ellos/Ellas"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "136",
+      "wolof": "Sénégal",
+      "phonetic": "sé-né-gal",
+      "translations": {
+        "fr": "Sénégal",
+        "en": "Senegal",
+        "ar": "السنغال",
+        "es": "Senegal"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "137",
+      "wolof": "Ndakaaru",
+      "phonetic": "nda-ka-rou",
+      "translations": {
+        "fr": "Dakar",
+        "en": "Dakar",
+        "ar": "داكار",
+        "es": "Dakar"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "138",
+      "wolof": "Kër",
+      "phonetic": "kér",
+      "translations": {
+        "fr": "Maison",
+        "en": "House",
+        "ar": "منزل",
+        "es": "Casa"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "139",
+      "wolof": "Màrse",
+      "phonetic": "mar-sé",
+      "translations": {
+        "fr": "Marché",
+        "en": "Market",
+        "ar": "سوق",
+        "es": "Mercado"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "140",
+      "wolof": "Lopitaan",
+      "phonetic": "lo-pi-tan",
+      "translations": {
+        "fr": "Hôpital",
+        "en": "Hospital",
+        "ar": "مستشفى",
+        "es": "Hospital"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "141",
+      "wolof": "Piir",
+      "phonetic": "pir",
+      "translations": {
+        "fr": "Puits",
+        "en": "Well",
+        "ar": "بئر",
+        "es": "Pozo"
+      },
+      "category": "nature",
+      "type": "word"
+    },
+    {
+      "id": "142",
+      "wolof": "Dëkk",
+      "phonetic": "dék",
+      "translations": {
+        "fr": "Village/Ville",
+        "en": "Village/City",
+        "ar": "قرية/مدينة",
+        "es": "Pueblo/Ciudad"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "143",
+      "wolof": "Mbed",
+      "phonetic": "mbed",
+      "translations": {
+        "fr": "Rue",
+        "en": "Street",
+        "ar": "شارع",
+        "es": "Calle"
+      },
+      "category": "travel",
+      "type": "word"
+    },
+    {
+      "id": "144",
+      "wolof": "Dingë",
+      "phonetic": "din-gué",
+      "translations": {
+        "fr": "Dent",
+        "en": "Tooth",
+        "ar": "سن",
+        "es": "Diente"
+      },
+      "category": "body",
+      "type": "word"
+    },
+    {
+      "id": "145",
+      "wolof": "Lëf",
+      "phonetic": "léf",
+      "translations": {
+        "fr": "Chose",
+        "en": "Thing",
+        "ar": "شيء",
+        "es": "Cosa"
+      },
+      "category": "expressions",
+      "type": "word"
+    },
+    {
+      "id": "146",
+      "wolof": "Bind",
+      "phonetic": "bind",
+      "translations": {
+        "fr": "Écrire",
+        "en": "To write",
+        "ar": "يكتب",
+        "es": "Escribir"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "147",
+      "wolof": "Jàng",
+      "phonetic": "djang",
+      "translations": {
+        "fr": "Lire",
+        "en": "To read",
+        "ar": "يقرأ",
+        "es": "Leer"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "148",
+      "wolof": "Xam",
+      "phonetic": "kham",
+      "translations": {
+        "fr": "Savoir",
+        "en": "To know",
+        "ar": "يعرف",
+        "es": "Saber"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "149",
+      "wolof": "Mën",
+      "phonetic": "mén",
+      "translations": {
+        "fr": "Pouvoir",
+        "en": "To be able to",
+        "ar": "يستطيع",
+        "es": "Poder"
+      },
+      "category": "verbs",
+      "type": "word"
+    },
+    {
+      "id": "150",
+      "wolof": "Xiif naa",
+      "phonetic": "khif-na",
+      "translations": {
+        "fr": "J'ai faim",
+        "en": "I am hungry",
+        "ar": "أنا جائع",
+        "es": "Tengo hambre"
+      },
+      "category": "expressions",
+      "type": "phrase"
+    }
+  ]
+}
