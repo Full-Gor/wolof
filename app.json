@@ -6,7 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -21,14 +20,12 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#00853F"
       },
-      "edgeToEdgeEnabled": true,
       "package": "com.wolof.translator"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Application de traduction Wolof - Dictionnaire complet avec traductions en Français, Anglais, Arabe et Espagnol. Fonctionne hors-ligne.",
-    "githubUrl": "https://github.com/Full-Gor/wolof",
+    "description": "Application de traduction Wolof - Dictionnaire complet avec traductions en Francais, Anglais, Arabe et Espagnol. Fonctionne hors-ligne.",
     "primaryColor": "#00853F"
   }
 }
